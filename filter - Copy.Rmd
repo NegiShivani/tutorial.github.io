@@ -37,7 +37,7 @@ showtext_auto()
 
 ```{r load-data, echo=FALSE, message=FALSE, warning=FALSE}
 
-df <- read.csv('./archetypes/access-to-water-and-sanitation/access-to-water-and-sanitation.csv', header = TRUE, stringsAsFactors = FALSE)
+df <- read.csv('./access-to-water-and-sanitation.csv', header = TRUE, stringsAsFactors = FALSE)
 
 ```
 
